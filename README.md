@@ -1,2 +1,11 @@
-# 4C2019--
- 项目介绍：使用Python编程语言，基于tensorflow框架，采用CRF和Bi-LSTM-CRF深度学习算法以及采用基于规则的信息抽取算
+# 表格可视化
+
+![WeChat Screenshot_20190527145453](snapshoot\WeChat Screenshot_20190527145453.png)
+
+# 统计视图
+
+![WeChat Screenshot_20190527145453](snapshoot\WeChat Screenshot_20190527145526.png)
+
+# 修改数据
+
+![WeChat Screenshot_20190527145453](snapshoot\WeChat Screenshot_20190527145958.png)
